@@ -1,3 +1,5 @@
+#### Note: I do not condone piracy, this repository is only meant to provide useful links to whoever needs it.
+
 # Useful Extensions
 
 Adblocker: https://ublockorigin.com/    
