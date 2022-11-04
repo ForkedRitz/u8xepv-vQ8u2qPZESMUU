@@ -15,6 +15,7 @@ Privacy Badger: https://privacybadger.org/
 |ConsoleMods|"We are a collaborative community focused on collecting and preserving the ephemeral knowledge of console modifications, repairs, and restoration methods."|https://consolemods.org/wiki/Main_Page|
 |Darthsternie's Firmware Archive|"On this page you will find Firmware Archives of the PS5, PS4, PS3, PS2, PSVita, PSP, 3DS and Switch."|https://darthsternie.net/|
 |Ps4homebrew|"News, releases, and discussion regarding the PS4 jailbreak, homebrew, and mods."|https://www.reddit.com/r/ps4homebrew/|
+|Ps4homebrew (Q&A)|Information on homebrewing + Useful links for homebrewing|https://www.reddit.com/r/ps4homebrew/comments/tdxr6z/ps4_homebrew_qa_general_march_2022_edition_post/|
 |Ps4piracy|"PS4 Homebrew and Piracy Discussion Subreddit!"|https://www.reddit.com/r/ps4piracy/|
 
 ### Games
