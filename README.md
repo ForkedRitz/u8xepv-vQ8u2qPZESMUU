@@ -7,6 +7,16 @@ Bypass link shorteners and skip redirects: https://fastforward.team/
 Popup Blocker (strict): https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/   
 Privacy Badger: https://privacybadger.org/
 
+# Exploit Hosts
+
+|Name|DNS|Link|
+|-|-|-|
+|karo218||http://karo218.ir/|
+|Kameleon||http://www.kmeps4.site/|
+|Night King Host||http://nightkinghost.com/|
+||192.241.221.79|https://ithaqua.exploit.menu|
+||165.227.83.145|https://cthugha.exploit.menu|
+
 # Links
 
 ### Resources
