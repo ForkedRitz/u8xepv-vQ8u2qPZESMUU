@@ -4,7 +4,8 @@
 
 Adblocker: https://ublockorigin.com/    
 Bypass link shorteners and skip redirects: https://fastforward.team/    
-Popup Blocker (strict): https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/   
+Popup Blocker (strict): https://add0n.com/popup-blocker.html   
+Pop up blocker for Chrome™ - Poper Blocker: https://poperblocker.com/   
 Privacy Badger: https://privacybadger.org/
 
 # Exploit Hosts
