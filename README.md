@@ -14,9 +14,14 @@ Privacy Badger: https://privacybadger.org/
 |-|-|-|
 |karo218||http://karo218.ir/|
 |Kameleon||http://www.kmeps4.site/|
-|Night King Host||http://nightkinghost.com/|
+|Pabst Blue Ribbon||http://prb123.ir/|
+|Leeful v4||https://leeful.github.io/9v4/|
+|X-Host||http://xperiments.in/xhost/|
+|PS4Xploit||http://ps4xploit.zd.lu/|
+|The Wolf Gamer||http://wolf2022.ir/900n/|
+|DarkModdervc||https://darkmoddervc.github.io/PS4JB/900/|
 ||192.241.221.79|https://ithaqua.exploit.menu|
-||165.227.83.145|https://cthugha.exploit.menu|
+|Al Azif|165.227.83.145|https://cthugha.exploit.menu|
 
 # Resources
 |Name|Description|Link|
@@ -28,6 +33,7 @@ Privacy Badger: https://privacybadger.org/
 |Ps4homebrew|"News, releases, and discussion regarding the PS4 jailbreak, homebrew, and mods."|https://www.reddit.com/r/ps4homebrew/|
 |Ps4homebrew (Q&A)|Information on homebrewing + Useful links for homebrewing|https://www.reddit.com/r/ps4homebrew/comments/tdxr6z/ps4_homebrew_qa_general_march_2022_edition_post/|
 |Ps4piracy|"PS4 Homebrew and Piracy Discussion Subreddit!"|https://www.reddit.com/r/ps4piracy/|
+|Orbis Unjailed|"Here you can find everything you need when jailbreaking and beyond!"|https://florinsdistortedvision.github.io/orbisunjailed/home/|
 
 # Games
 |Name|Description|Link|
