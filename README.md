@@ -17,9 +17,7 @@ Privacy Badger: https://privacybadger.org/
 ||192.241.221.79|https://ithaqua.exploit.menu|
 ||165.227.83.145|https://cthugha.exploit.menu|
 
-# Links
-
-### Resources
+# Resources
 |Name|Description|Link|
 |-|-|-|
 |PKG Zone|Homebrew pkg store.|https://pkg-zone.com/|
@@ -30,7 +28,7 @@ Privacy Badger: https://privacybadger.org/
 |Ps4homebrew (Q&A)|Information on homebrewing + Useful links for homebrewing|https://www.reddit.com/r/ps4homebrew/comments/tdxr6z/ps4_homebrew_qa_general_march_2022_edition_post/|
 |Ps4piracy|"PS4 Homebrew and Piracy Discussion Subreddit!"|https://www.reddit.com/r/ps4piracy/|
 
-### Games
+# Games
 |Name|Description|Link|
 |-|-|-|
 |Game-2U||https://game-2u.com/Category/ps4|
