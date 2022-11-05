@@ -8,6 +8,13 @@ Popup Blocker (strict): https://add0n.com/popup-blocker.html
 Pop up blocker for Chrome™ - Poper Blocker: https://poperblocker.com/   
 Privacy Badger: https://privacybadger.org/
 
+# Useful Windows Apps
+
+PS4PKGViewer: https://sites.google.com/site/theleecherman/ps4pkgviewer    
+7-Zip: https://www.7-zip.org/   
+WinRAR: https://www.win-rar.com/start.html?&L=0   
+Free Download Manager (FDM): https://www.freedownloadmanager.org/   
+
 # Exploit Hosts
 
 |Name|DNS|Link|
@@ -23,6 +30,8 @@ Privacy Badger: https://privacybadger.org/
 ||192.241.221.79|https://ithaqua.exploit.menu|
 |Al Azif|165.227.83.145|https://cthugha.exploit.menu|
 
+* It is recommended to check the wall of shame: https://florinsdistortedvision.github.io/orbisunjailed/wall-of-shame/
+
 # Resources
 |Name|Description|Link|
 |-|-|-|
@@ -33,7 +42,7 @@ Privacy Badger: https://privacybadger.org/
 |Ps4homebrew|"News, releases, and discussion regarding the PS4 jailbreak, homebrew, and mods."|https://www.reddit.com/r/ps4homebrew/|
 |Ps4homebrew (Q&A)|Information on homebrewing + Useful links for homebrewing|https://www.reddit.com/r/ps4homebrew/comments/tdxr6z/ps4_homebrew_qa_general_march_2022_edition_post/|
 |Ps4piracy|"PS4 Homebrew and Piracy Discussion Subreddit!"|https://www.reddit.com/r/ps4piracy/|
-|Orbis Unjailed|"Here you can find everything you need when jailbreaking and beyond!"|https://florinsdistortedvision.github.io/orbisunjailed/home/|
+|Orbis Unjailed|"Here you can find everything you need when jailbreaking and beyond!"|[https://florinsdistortedvision.github.io/orbisunjailed/home/](https://florinsdistortedvision.github.io/orbisunjailed/)|
 
 # Games
 |Name|Description|Link|
