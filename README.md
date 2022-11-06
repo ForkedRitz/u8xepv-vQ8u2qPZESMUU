@@ -47,8 +47,8 @@ Free Download Manager (FDM): https://www.freedownloadmanager.org/
 # Games
 |Name|Description|Link|
 |-|-|-|
-|Game-2U||https://game-2u.com/Category/ps4|
 |Dlpsgame||https://dlpsgame.com/home/|
+|Game-2U||https://game-2u.com/Category/ps4|
 |PkgLinks1|"A place to share working PKG links for the masses." (A reboot of r/PkgLinks that went private)|https://www.reddit.com/r/PkgLinks1/|
 |PkgLinks1||https://socialgrep.com/search?query=%2Fr%2Fpkglinks1|
 |PkgLinks|Archive of the old r/Pkglinks.|https://socialgrep.com/search?query=%2Fr%2Fpkglinks|
