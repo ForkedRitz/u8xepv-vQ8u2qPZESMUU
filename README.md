@@ -1,4 +1,4 @@
-#### Note: I do not condone piracy, this repository is only meant to provide useful links to whoever needs it.
+#### Note: I do not support piracy, this repository is only meant to provide useful links to whoever needs it.
 
 # Useful Extensions
 
